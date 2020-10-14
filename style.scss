@@ -1,1 +1,12 @@
-/*imports*/
+// variables
+$bg-color: #272727;
+$text-color: #fff;
+
+body {
+    background: $bg-color;
+    color: $text-color;
+}
+
+.tip {
+    width: 80%;
+}
