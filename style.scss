@@ -1,8 +1,5 @@
 @import './resets';
-
-// VARIABLES
-$bg-color: #272727;
-$text-color: #fff;
+@import './variables';
 
 body {
     background: $bg-color;
